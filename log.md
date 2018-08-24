@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 24, 2018
+### Day 1: August 24, 2018
 
 **Today's Progress**: Wrote HTML code and began CSS for a cartoon animal image.
 
-**Thoughts:** I struggled with CSS, but I could figure out the basic functionality. HTML was easy to understand!
+**Thoughts:** The HTML was quite simple for this one, but the CSS was a bit harder. Deciding the numerical values for exactly how large each element should be was a bit difficult. I also enjoyed splitting up the image into its component parts (e.g: ears, head, eyes, etc.) - really simplified the process.   
 
 **Link to work:** [Image](http://www.example.com)
