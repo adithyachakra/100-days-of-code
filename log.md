@@ -6,4 +6,4 @@
 
 **Thoughts:** The HTML was quite simple for this one, but the CSS was a bit harder. Deciding the numerical values for exactly how large each element should be was a bit difficult. I also enjoyed splitting up the image into its component parts (e.g: ears, head, eyes, etc.) - really simplified the process.   
 
-**Link to work:** [Image](http://www.example.com)
+**Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-1.html
