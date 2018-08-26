@@ -15,3 +15,12 @@
 **Thoughts:** I started out by using random values for the padding (height, width, top, left/right) so my first attempt looked pretty off - the nose was not even on the face and the ears weren't attached to the head. I used trial and error to get the right sizes/positions for the various body parts. I orginially planned on having nostrils and hair on the animal, but I got lazy (SORRY!) and decided to remove them, which is why the .nostril and .hair divs are gone from the CSS/HTML files. But overall, this was very satisfying!
 
 **Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-2.html
+
+### Day 3: August 26, 2018
+
+**Today's Progress**: Started HTML and CSS code for a design webpage.
+
+**Thoughts:** I am trying to create a page with a circle that grows bigger and smaller every 1 second using CSS animation. For some reason, the webpage is displaying blank so I cannot see it. Any help would be greatly appreciated! 
+
+**Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-3.html
+
