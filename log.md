@@ -24,3 +24,10 @@
 
 **Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-3.html
 
+### Day 4: August 24, 2018
+
+**Today's Progress**: Fixed my HTML/CSS code! 
+
+**Thoughts:** It took a very very very long time to fix - but once I figured out what was wrong, it was immensely satisfying! Right now, the website doesn't really do/show anything - it is just an animation of two circles coming together while the background flashes different colours. In upcoming days, I would like to add some fuctionality to the page. Perhaps, if the user clicks one button, it will trigger an animation which provides more information. I might use some JavaScript or SVG for that.
+
+**Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-4.html
