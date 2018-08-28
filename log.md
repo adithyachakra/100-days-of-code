@@ -31,3 +31,12 @@
 **Thoughts:** It took a very very very long time to fix - but once I figured out what was wrong, it was immensely satisfying! Right now, the website doesn't really do/show anything - it is just an animation of two circles coming together while the background flashes different colours. In upcoming days, I would like to add some fuctionality to the page. Perhaps, if the user clicks one button, it will trigger an animation which provides more information. I might use some JavaScript or SVG for that.
 
 **Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-4.html
+
+### Day 5: August 28, 2018 (I'm sorry!)
+
+**Today's Progress**: Tried to animate CSS code so that the graphics move when they are hovered over.
+
+**Thoughts:** I  was not able to animate the circles when I hovered over them. The animations work, but (a) they are not triggered by :hover and (b) I am unsure how to trigger both circles to move when I hover over only one of them, because the :hover function is only attached to one of the graphics. 
+
+**Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-5.html
+
