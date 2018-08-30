@@ -40,7 +40,7 @@
 
 **Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-5.html
 
-## Day 6: August 30, 2018
+### Day 6: August 30, 2018
 
 **Today's Progress**: Started a Java Program that would compare prices of products on the Staples website.
 
