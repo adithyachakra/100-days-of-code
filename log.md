@@ -40,3 +40,13 @@
 
 **Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-5.html
 
+## Day 6: August 30, 2018
+
+**Today's Progress**: Started a Java Program that would compare prices of products on the Staples website.
+
+**Thoughts:** This was very fun - a refreshing change from doing only front-end programming for the first five days! I managed to make the program output the prices of the products, but the productName Element (array) did not work, so the program does not yet output the name of the product beside the price. Tomorrow, I will fix that error and hopefully find a way to compare the prices as well! 
+
+**Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-6.html
+
+
+
