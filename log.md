@@ -48,5 +48,13 @@
 
 **Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-6.html
 
+### Day 7: August 31, 2018
+
+**Today's Progress**: Changed the Java program so that it would output names as well. I also added a class that would arrange the prices by descending/ascending order.
+
+**Thoughts:** I fixed the bug from Day 6 quite easily, but encountered some new bugs when trying to convert from the Jsoup elements form to arrays, and then converting the strings in the array to doubles so that I could compare them, and then all back to elements so that they could be outputted in the main class. (Just realized this, perhaps they don't have to be converted back to elements in the main class - that would make the job a lot easier. I guess that's what I'm doing tomorrow!)
+
+**Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-7.html
+
 
 
