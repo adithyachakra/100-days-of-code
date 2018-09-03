@@ -56,5 +56,11 @@
 
 **Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-7.html
 
+### Day 8: September 3, 2018 (Sorry again!)
 
+**Today's Progress**: Made an external class for the ascending price orderer function.
+
+**Thoughts:** I am struggling with how to use the variables from one class in another class. I tried to use "extends" but it didn't work. I'm pretty sure I have to use objects, but the variable is not a method - it is just a normal variable, so I am unsure how to use objects in this case. Hopefully, I will figure it out tomorrow!    
+
+**Link to work:** https://newcodingprojects.blogspot.com/2018/08/100daysofcoding-day-8.html
 
